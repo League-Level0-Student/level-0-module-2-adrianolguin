@@ -17,7 +17,7 @@ public class RobtoValentine {
 		darwin.moveTo(450, 500);
 		darwin.turn(40);
 		darwin.move(300);
-		for (int k = 0; k < 36; k++) {
+		for (int k = 0; k < 36; k++) {    
 			darwin.move(12);
 			darwin.turn(-5);
 		}
